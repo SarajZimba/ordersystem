@@ -1,0 +1,9 @@
+Flask-RESTful
+flask
+Flask-Session
+mysql-connector-python
+flask_cors
+python-dotenv
+PyJWT
+python-engineio
+
